@@ -1,0 +1,8 @@
+prefix=/home/sheldonmao/catkin_ws/devel
+
+Name: open_chisel
+Description: Description of open_chisel
+Version: 0.0.0
+Cflags: -I/home/sheldonmao/catkin_ws/src/open_chisel/include
+Libs: -L/home/sheldonmao/catkin_ws/devel/lib -lopen_chisel
+Requires: 

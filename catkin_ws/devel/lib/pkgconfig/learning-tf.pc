@@ -1,0 +1,8 @@
+prefix=/home/sheldonmao/catkin_ws/devel
+
+Name: learning-tf
+Description: Description of learning-tf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sheldonmao/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,2 @@
+beginner_tutorials:chisel_msgs:chisel_ros:learning-tf:open_chisel
+-DCATKIN_DEVEL_PREFIX=/home/sheldonmao/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sheldonmao/catkin_ws/install -G Unix Makefiles

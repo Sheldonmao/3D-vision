@@ -1,0 +1,8 @@
+prefix=/home/sheldonmao/catkin_ws/devel
+
+Name: chisel_msgs
+Description: Description of chisel_msgs
+Version: 0.0.0
+Cflags: -I/home/sheldonmao/catkin_ws/devel/include
+Libs: -L/home/sheldonmao/catkin_ws/devel/lib 
+Requires: message_runtime std_msgs sensor_msgs geometry_msgs
